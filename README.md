@@ -7,3 +7,9 @@
 These instructions will help you run a copy of this project on your system.
 
 ### Requirements
+
+You need the following application installed on your system to run this project:
+
+* XAMPP ~ X 7.3.30
+
+
