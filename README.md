@@ -27,7 +27,7 @@ You need the following application installed on your system to run this project:
 4.  Clone the repo at "ht docs" folder.
 5.  Use your browser to host the website locally.
 
-##Tool and Technologies Used:
+## Tool and Technologies Used:
 * Front End: JavaScript, HTML5
 * Back  End: PHP, MySQL database
 
