@@ -21,11 +21,11 @@ You need the following application installed on your system to run this project:
 
 ## Getting Started
 
-1. Clone this repo locally into the location of your choice.
-2. Move and merge the content of the frontEnd folder and backEnd folder at one single repository. Note, the calling of certain files have been done in a way that  requires them to be merged. 
-3.  Open XAMPP, enabling necessary tabs.
-4.  Clone the repo at "ht docs" folder.
-5.  Use your browser to host the website locally.
+* Clone this repo locally into the location of your choice.
+* Move and merge the content of the frontEnd folder and backEnd folder at one single repository. Note, the calling of certain files have been done in a way that  requires them to be merged. 
+* Open XAMPP, enabling necessary tabs.
+*  Clone the repo at "ht docs" folder.
+*   Use your browser to host the website locally.
 
 ## Tool and Technologies Used:
 * Front End: JavaScript, HTML5
