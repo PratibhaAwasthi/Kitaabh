@@ -63,7 +63,7 @@ Implementing a secure authentication system for user accounts
 
 ## Demo
 
-![demo]([https://www.youtube.com/watch?v=lFgWmrlRRSc&ab_channel=PratibhaAwasthi](https://www.youtube.com/watch?v=lFgWmrlRRSc&ab_channel=PratibhaAwasthi))
+[![demo][(http://img.youtube.com/vi/CjGZ8JzFQ-A/0.jpg)](https://youtu.be/CjGZ8JzFQ-A)](https://www.youtube.com/watch?v=lFgWmrlRRSc&ab_channel=PratibhaAwasthi)
 
 ## Requirements
 
