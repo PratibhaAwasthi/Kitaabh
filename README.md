@@ -1,17 +1,63 @@
 # Kitaabh - Online marketplace for books.
 
 
-[Kitaabh](https://kitaabh.com/) is a php based e-commerce website that allows users to order books. The web application includes a HTML and javascript based front end and php and SQL based backend. It is a fairly simple application that includes all the major components of a Full-Stack web application. This website has been hosted via iPage.
+##Project Overview:
+Kitaabh.com is an e-commerce website that allows users to order books online. The website includes a HTML, CSS and Javascript based front-end and a PHP and SQL based back-end. This is a full-stack web application that provides a seamless user experience.
 
+The website includes all the major components of an e-commerce website, such as the ability to view and order products, manage user accounts, and store and manage user inventory data. In addition, the website has successfully implemented a hashing cryptographic process to add security for user ID and password authentication.
+
+The website features several pages, including a home page, an about page, a Products/Services page, a news page, a user page, a signup page, and a login page. Each page is designed to provide the user with a specific set of information and functionalities.
 The instruction below helps to host this website locally.
 
-### Features: 
+##Motivation:
+The motivation behind creating an e-commerce website for selling books is to provide users with a convenient and efficient way to purchase books online. With the rise of digital technology and online shopping, it has become increasingly important for businesses to provide their customers with an online platform to purchase products. By creating Kitaabh.com, we aim to make the process of purchasing books online as seamless and convenient as possible.
 
-* User creation and logging in page
-* Verification
-* News, Home, Products and Contact us page.
+##Project Objectives:
+The objectives of the project include:
 
-### Requirements
+Creating a user-friendly and visually appealing front-end interface
+Developing a secure back-end database with robust inventory management system
+Providing a seamless and efficient user experience for browsing and purchasing books
+Ensuring the website is fully responsive and compatible with all devices and browsers
+Implementing a secure authentication system for user accounts
+
+##Project Timeline:
+
+###Week 1: Planning and scoping
+
+*Defined project goals, objectives, and requirements
+*Developed project plan and timeline
+*Identified risks and develop risk management plan
+
+###Week 2: Designing and prototyping
+
+*Developed website wireframes and designs over AdobeXD.
+*Created prototypes for key pages and functionality.
+*Gather feedback and iterate on designs as necessary.
+
+###Week 3: Front-end development
+
+*Developed HTML/CSS templates based on finalised designs.
+*Implemented responsive design for mobile and desktop devices.
+*Developed and implement JavaScript functionality.
+
+###Week 4: Back-end development
+
+*Developed and configured database architecture.
+*Implemented website functionality using PHP and SQL.
+*Integrated website with payment gateway.
+*Developed and implement secure authentication system.
+
+###Week 5: Testing and deployment
+
+*Conducted comprehensive testing of website functionality.
+*Tested website performance and load time.
+*Tested website on multiple browsers and devices.
+*Debuged and resolved issues as necessary.
+*Deployed website on ipage.
+
+
+## Requirements
 
 You need the following application installed on your system to run this project:
 
