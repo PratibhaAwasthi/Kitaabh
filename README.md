@@ -23,7 +23,7 @@ Implementing a secure authentication system for user accounts
 
 ## Architecture
 
-![architecture](./imgages/architecture.png)
+![alt text](./imgages/architecture.png)
 
 ## Project Timeline:
 
