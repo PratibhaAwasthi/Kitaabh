@@ -63,7 +63,8 @@ Implementing a secure authentication system for user accounts
 
 ## Demo
 
-[{% include youtube.html id="lFgWmrlRRSc" %}](https://www.youtube.com/watch?v=lFgWmrlRRSc&ab_channel=PratibhaAwasthi)
+[![Architecture](https://www.youtube.com/watch?v=lFgWmrlRRSc&ab_channel=PratibhaAwasthi)](https://youtu.be/lFgWmrlRRSc)
+
 
 You need the following application installed on your system to run this project:
 
