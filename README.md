@@ -63,7 +63,7 @@ Implementing a secure authentication system for user accounts
 
 ## Demo
 
-[![demo][[(http://img.youtube.com/vi/CjGZ8JzFQ-A/0.jpg)]\
+{% include youtube.html id="lFgWmrlRRSc" %}  
 
 You need the following application installed on your system to run this project:
 
