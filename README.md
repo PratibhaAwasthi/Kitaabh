@@ -23,7 +23,7 @@ Implementing a secure authentication system for user accounts
 
 ## Architecture
 
-![alt text]([./imgages/architecture.png](https://github.com/PratibhaAwasthi/Kitaabh/blob/main/images/architecture.png))
+![Architecture](images/architecture.png)
 
 ## Project Timeline:
 
