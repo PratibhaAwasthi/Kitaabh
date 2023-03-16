@@ -21,6 +21,10 @@ Providing a seamless and efficient user experience for browsing and purchasing b
 Ensuring the website is fully responsive and compatible with all devices and browsers
 Implementing a secure authentication system for user accounts
 
+## Architecture
+
+![architecture](./imgages/architecture.png)
+
 ## Project Timeline:
 
 ### Week 1: Planning and scoping
@@ -56,6 +60,10 @@ Implementing a secure authentication system for user accounts
 *Debuged and resolved issues as necessary.
 *Deployed website on ipage.
 
+
+## Demo
+
+[![demo](https://www.youtube.com/watch?v=lFgWmrlRRSc&ab_channel=PratibhaAwasthi)
 
 ## Requirements
 
