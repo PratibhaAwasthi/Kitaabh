@@ -63,7 +63,7 @@ Implementing a secure authentication system for user accounts
 
 ## Demo
 
-[![Architecture](https://www.youtube.com/watch?v=lFgWmrlRRSc&ab_channel=PratibhaAwasthi)](https://youtu.be/lFgWmrlRRSc)
+[![DEMO](https://img.youtube.com/vi/lFgWmrlRRSc/0.jpg)](https://www.youtube.com/watch?v=lFgWmrlRRSc)
 
 
 You need the following application installed on your system to run this project:
