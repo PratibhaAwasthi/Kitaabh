@@ -29,36 +29,36 @@ Implementing a secure authentication system for user accounts
 
 ### Week 1: Planning and scoping
 
-*Defined project goals, objectives, and requirements
-*Developed project plan and timeline
-*Identified risks and develop risk management plan
+* Defined project goals, objectives, and requirements
+* Developed project plan and timeline
+* Identified risks and develop risk management plan
 
 ### Week 2: Designing and prototyping
 
-*Developed website wireframes and designs over AdobeXD.
-*Created prototypes for key pages and functionality.
-*Gather feedback and iterate on designs as necessary.
+* Developed website wireframes and designs over AdobeXD.
+* Created prototypes for key pages and functionality.
+* Gather feedback and iterate on designs as necessary.
 
 ### Week 3: Front-end development
 
-*Developed HTML/CSS templates based on finalised designs.
-*Implemented responsive design for mobile and desktop devices.
-*Developed and implement JavaScript functionality.
+* Developed HTML/CSS templates based on finalised designs.
+* Implemented responsive design for mobile and desktop devices.
+* Developed and implement JavaScript functionality.
 
 ### Week 4: Back-end development
 
-*Developed and configured database architecture.
-*Implemented website functionality using PHP and SQL.
-*Integrated website with payment gateway.
-*Developed and implement secure authentication system.
+* Developed and configured database architecture.
+* Implemented website functionality using PHP and SQL.
+* Integrated website with payment gateway.
+* Developed and implement secure authentication system.
 
 ### Week 5: Testing and deployment
 
-*Conducted comprehensive testing of website functionality.
-*Tested website performance and load time.
-*Tested website on multiple browsers and devices.
-*Debuged and resolved issues as necessary.
-*Deployed website on ipage.
+* Conducted comprehensive testing of website functionality.
+* Tested website performance and load time.
+* Tested website on multiple browsers and devices.
+* Debuged and resolved issues as necessary.
+* Deployed website on ipage.
 
 
 ## Demo
