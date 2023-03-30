@@ -15,11 +15,11 @@ The motivation behind creating an e-commerce website for selling books is to pro
 ## Project Objectives:
 The objectives of the project include:
 
-Creating a user-friendly and visually appealing front-end interface
-Developing a secure back-end database with robust inventory management system
-Providing a seamless and efficient user experience for browsing and purchasing books
-Ensuring the website is fully responsive and compatible with all devices and browsers
-Implementing a secure authentication system for user accounts
+* Creating a user-friendly and visually appealing front-end interface
+* Developing a secure back-end database with robust inventory management system
+* Providing a seamless and efficient user experience for browsing and purchasing books
+* Ensuring the website is fully responsive and compatible with all devices and browsers
+* Implementing a secure authentication system for user accounts
 
 ## Architecture
 
