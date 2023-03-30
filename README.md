@@ -31,7 +31,6 @@ The objectives of the project include:
 
 * Defined project goals, objectives, and requirements
 * Developed project plan and timeline
-* Identified risks and develop risk management plan
 
 ### Week 2: Designing and prototyping
 
